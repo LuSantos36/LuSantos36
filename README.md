@@ -1,16 +1,32 @@
-## Hi there 👋
+# Luciana Santos
 
-<!--
-**LuSantos36/LuSantos36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Trabalho na area adminstrativa mas estou buscando trocar de area de atuação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educação
+
+Curso Assistente Administrativo
+
+Curso Recepcionista
+
+Cursando Técnico em Desenvolvimento de Sistemas no Senac- NH
+
+## Experiência de Trabalho
+
+1. JN TORNEARIA
+ 
+-Emissão de notas fiscais
+
+-Emissão e controle de recebimentos de boletos
+
+-Realização de pagamentos
+
+ ## Hobbies  
+ 
+ - Ver séries 
+ - Ler matérias diversas
+ - Nadar🏊‍♀️
+ - Ir à Praia 🏖️
+
+![Foto Luciana](fotolu.jpg)
+
