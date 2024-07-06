@@ -28,5 +28,5 @@ Cursando Técnico em Desenvolvimento de Sistemas no Senac- NH
  - Nadar🏊‍♀️
  - Ir à Praia 🏖️
 
-![Foto Luciana](fotolu.jpg)
+![Foto Luciana](fotolu.jpeg)
 
